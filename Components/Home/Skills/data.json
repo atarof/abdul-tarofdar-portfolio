@@ -1,0 +1,42 @@
+[
+    {
+        "experiance 1": {
+            "title": " Digital Test lead | engineer - Cabinet office (CDIO)",
+            "date": "Oct 2018 – Jan 2019",
+            "Summary": "Part of the digital deliver team working to assist and ensure best practices across multiple digital services",
+            "responsbilities": "Assisting in driving test efforts across multiple live services where required for bug fixes, change requests and application feature changes"
+        }
+    },
+    {
+        "experiance 2": {
+            "title": "Senior test analyst -  Home Office UK | London",
+            "date": "Oct 2018 – Jan 2019",
+            "Summary": "Working within the live service support and optimisation (SSO) team in HMPO which worked in operating, supporting and improving live digital services in a DevOps environment.",
+            "responsbilities": [
+                "Assisting in driving test efforts across multiple live services where required for bug fixes, change requests and application feature changes",
+                "Involved in technical analysis, exploratory testing and troubleshooting of applications where required to determine depth and breadth of testing for application under test",
+                "Creating dashboards, reporting and logging testing using JIRA (zephyr",
+                "Producing test reports, plans and strategy for stakeholders and relevant teams",
+                "Using various tools to analyse and execute tests including: SOAP UI, mySQL, PostgresSQL, Java, bash command line, GitLab, Jenkins, Intelij.",
+                "Planning, coordinating and determining test coverage for releases"
+            ]
+        }
+    },
+    {
+        "experiance 3": {
+            "title": "Senior test analyst/ UAT lead -  British Airways | London",
+            "date": "Jan 2013 – Oct 2018",
+            "Summary": "Working on British airways high profile digital transformation program which sought to restructure and streamline BA’s current online selling flow for its customers.  ",
+            "responsbilities": [
+                "Reviewing, analysing and assessing business functional specifications, business proposal documentation or equivalent documents, making recommendations of full testing requirements.",
+                "Creating and fully documenting complete test plans, strategies conditions and scripts, covering all potential scenarios and as part of this process identifying and requesting early test data requirements",
+                "Leading and coordinating  testing efforts for releases.",
+                "Cross browser and cross platform testing using browser stack",
+                "Testing functional components delivered for the application in every Iteration/sprint often to very tight deadlines.",
+                "Defect management and prioritisation through JIRA as well as setting up various dashboards to report on testing progress",
+                "Liaising with onshore and offshore development teams",
+                "Troubleshooting issues using various tools including chrome developer tab, SOAP UI, Airline inventory systems"
+            ]
+        }
+    }
+]
