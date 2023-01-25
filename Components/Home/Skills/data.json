@@ -2,16 +2,18 @@
     {
         "experiance 1": {
             "title": " Digital Test lead | engineer - Cabinet office (CDIO)",
-            "date": "Oct 2018 – Jan 2019",
-            "Summary": "Part of the digital deliver team working to assist and ensure best practices across multiple digital services",
-            "responsbilities": "Assisting in driving test efforts across multiple live services where required for bug fixes, change requests and application feature changes"
+            "date": "Oct 2018 – present",
+            "technologies": "GOV.UK Frontend, Node.js, Testcafe, Cypress, Javascript, Typescript, AWS ELB, AWS codebuild,  AWS dynamo db, Salesforce, Postgress, Docker, Git Actions, Browserstack",
+            "Summary": "Part of the digital deliver team within CDIO working to assist and ensure best practices across multiple digital services. This role encompassed a wide remit which at times included technical 2nd/3rd line support for services",
+            "responsbilities": ["Helping drive testing efforts across a number of services","Setting up automated E2E tests using frameworks such as Testcafe and Cypress ","Liasing with multiple stakeholders to plan quality assurance activities across a wide portfolio of services","Understanding requirements and complexites","Working closely with cross functional agile team","Leading and managing test resources when required"]
         }
     },
     {
         "experiance 2": {
             "title": "Senior test analyst -  Home Office UK | London",
             "date": "Oct 2018 – Jan 2019",
-            "Summary": "Working within the live service support and optimisation (SSO) team in HMPO which worked in operating, supporting and improving live digital services in a DevOps environment.",
+            "technologies":"mySQL, PostgresSQL, Java, GitLab, Intelij, Bash, Ubuntu, Jira (zephyr),",
+            "Summary": "Worked within the live service support and optimisation (SSO) team in HMPO which worked in operating, supporting and improving live services in a DevOps environment.",
             "responsbilities": [
                 "Assisting in driving test efforts across multiple live services where required for bug fixes, change requests and application feature changes",
                 "Involved in technical analysis, exploratory testing and troubleshooting of applications where required to determine depth and breadth of testing for application under test",
@@ -25,17 +27,65 @@
     {
         "experiance 3": {
             "title": "Senior test analyst/ UAT lead -  British Airways | London",
-            "date": "Jan 2013 – Oct 2018",
-            "Summary": "Working on British airways high profile digital transformation program which sought to restructure and streamline BA’s current online selling flow for its customers.  ",
+            "date": "Sep 2015 – Oct 2018",
+            "technologies":"Angular, Jasmine, Javascript, Amadeus, SOAP UI, Jira (zephyr), Browserstack",
+            "Summary": "Worked on British airways high profile digital transformation program which sought to restructure and streamline BA’s current online selling flow for its customers. ",
             "responsbilities": [
                 "Reviewing, analysing and assessing business functional specifications, business proposal documentation or equivalent documents, making recommendations of full testing requirements.",
-                "Creating and fully documenting complete test plans, strategies conditions and scripts, covering all potential scenarios and as part of this process identifying and requesting early test data requirements",
+                "Creating and documenting test plans, strategies and scripts",
                 "Leading and coordinating  testing efforts for releases.",
                 "Cross browser and cross platform testing using browser stack",
                 "Testing functional components delivered for the application in every Iteration/sprint often to very tight deadlines.",
                 "Defect management and prioritisation through JIRA as well as setting up various dashboards to report on testing progress",
                 "Liaising with onshore and offshore development teams",
                 "Troubleshooting issues using various tools including chrome developer tab, SOAP UI, Airline inventory systems"
+            ]
+        }
+    }, 
+     {
+        "experiance 4": {
+            "title": "QA analyst - Accenden | High Wycombe",
+            "date": "Apr 2015 – Aug 2015",
+            "technologies":"mySQL, Jira, Testcomplete",
+            "Summary": "Predominantly involved with testing on two core platforms which serviced customer queries in a call center environment. Involved with a number of inflight projects which included change requests and data boarding projects. (consulting through FDM group)",
+            "responsbilities": [
+                "Analysing business requirement documents to establish appropriate test coverage and deriving relevant test conditions ",
+                "Test execution based on priority of test item",
+                "Use of SQL server and Oracle to derive test data required for testing",
+                "Liaising with business analysts and PMO to determine test coverage and time frames needed for testing on projects",
+                "Producing test strategy and test plan documents for different",
+                "Use of testing tools such as Enterprise Tester/ JIRA to raise defects and create test cases",
+                "Liaising with onshore and offshore development teams",
+                "Producing daily test execution updates for senior management"
+            ]
+        }
+    },
+    {
+        "experiance 5": {
+            "title": "Test analyst  - BAE Systems | London",
+            "date": "Dec 2014 – Apr 2015",
+            "Summary": "Involved in working with Mobile Protect, a cloud based service which works to secure smart devices from external cyber threats. (consulting through FDM group)",
+            "responsbilities": [
+                "Executing functional test cases on Android and IOS operating systems across various devices",
+                "Cross browser manual testing ",
+                "Carrying out functional integration testing, regression testing, smoke testing, and compatibility testing",
+                "Recording defects discovered in test execution in JIRA ",
+                "Reporting issues/risks to test manager",
+                "Liaising with developers and clients to understand requirements"
+            ]
+        }
+    },
+     {
+        "experiance 6": {
+            "title": "Test analyst/Lead - Warner music| London",
+            "date": "Aug 2013 – Nov 2015",
+            "Summary": "Working within the D2C (direct to consumer) support team which manages and maintains the Oracle application known as PITA. (Payments including tariff). (consulting through FDM group)",
+            "responsbilities": [
+                "Improving general quality assurance practices, ",
+                "Developing test strategies within a SCRUM environment",
+                "Carrying out functional, integration, regression and smoke testing",
+                "Recording defects discovered in test execution in JIRA ",
+                "liaising with business analyst as well as onshore and offshore development teams to determine test plans and test execution procedures"
             ]
         }
     }

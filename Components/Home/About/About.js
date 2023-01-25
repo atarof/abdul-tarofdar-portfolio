@@ -2,10 +2,9 @@ import { React } from 'react'
 import Link from 'next/link'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSquareArrowUpRight } from '@fortawesome/free-solid-svg-icons'
-import ParticleBackground from '../Background/ParticleBackground'
 export default function About() {
   return (
-    <div className="w-full text-center">
+    <div className="w-full text-center scroll-mt-10" id="about">
       <div className="max-w-[1240px] w-full h-screen mx-auto p-8 flex z-index:0">
         <div>
           <p className="py-4 text-[#E94560] text-lg">
@@ -13,7 +12,7 @@ export default function About() {
           </p>
 
           <h1 className="py-4 text-6xl">
-            Hi I'm <span className="py-4 text-[#EEE3CB]">Abdul</span>{' '}
+            Hi I&apos;m <span className="py-4 text-[#EEE3CB]">Abdul</span>{' '}
             <span className="animate-waving-hand">👋🏻</span>
           </h1>
           <h1 className="py-2 text-6xl">A QA enginner. </h1>
@@ -23,7 +22,6 @@ export default function About() {
             and public sector.
           </p>
           <p className="py-7">Find out more!</p>
-
           <div className="z-10">
             <Link href="#skills">
               <a>

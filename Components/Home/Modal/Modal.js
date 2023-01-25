@@ -7,6 +7,7 @@ export default function Modal({
   summary,
   date,
   responsibilities,
+  technologies
 }) {
   const handleCloseClick = (e) => {
     console.log('close')
@@ -30,11 +31,17 @@ export default function Modal({
                   <p className="my-4 text-slate-500 text-lg leading-relaxed">
                     {summary}
                   </p>
-                  <h4>Key responsibilities</h4>
+                  {(technologies && <h4>Technologies</h4>)}
                   <p className="my-4 text-slate-500 text-lg leading-relaxed">
-                    {responsibilities.map((item) => (
-                      <li key={item}>{item}</li>
-                    ))}
+                    {technologies}
+                  </p>
+                  <h4>Key responsibilities</h4>
+                  <p className="my-4 text-slate-500 text-lg leading-relaxed pl-6">
+                    <ul class="list-disc">
+                      {responsibilities.map((item) => (
+                        <li key={item}>{item}</li>
+                      ))}
+                    </ul>
                   </p>
                 </div>
                 {/*footer*/}
