@@ -17,11 +17,11 @@ export default function AboutMe() {
           helping assure quality in cross functional agile teams. Although my
           main focus is quality assurance and testing, the last few years have
           seen me focus more on front-end frameworks like React, Next.js and
-          testing frameworks such as Cypress and Testcafe. More recently I have been involved
-          in the public sector working on an array
-          of digital services from design through to delivery. I am always
-          looking to add value to teams taking a pragmatic, flexible and
-          collaborative approach to testing
+          testing frameworks such as Cypress and Testcafe. More recently I have
+          been involved in the public sector working on an array of digital
+          services from design through to delivery. I am always looking to add
+          value to teams taking a pragmatic, flexible and collaborative approach
+          to testing
         </p>
 
         <div class="w-3/4 sm:w-3/4 lg:pt-10 sm:py-5">
