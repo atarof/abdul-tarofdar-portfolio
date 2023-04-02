@@ -1,7 +1,8 @@
 import { React } from 'react'
 import Link from 'next/link'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faSquareArrowUpRight } from '@fortawesome/free-solid-svg-icons'
+import { faCircleArrowDown } from '@fortawesome/free-solid-svg-icons'
+import '@fortawesome/fontawesome-svg-core/styles.css'
 export default function About() {
   return (
     <div className="w-full text-center scroll-mt-10" id="about">
@@ -26,8 +27,8 @@ export default function About() {
             <Link href="#skills">
               <a>
                 <FontAwesomeIcon
-                  icon={faSquareArrowUpRight}
-                  size="6x"
+                  icon={faCircleArrowDown}
+                  size="4x"
                   className=" hover:text-[#FEF5AC] "
                 />
               </a>
