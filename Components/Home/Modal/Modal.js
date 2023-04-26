@@ -19,7 +19,7 @@ export default function Modal({
         <>
           <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none md:inset-0 h-modal md:h-full">
             <div className="relative w-auto my-6 mx-auto max-w-3xl h-full">
-              <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full outline-none focus:outline-none  dark:bg-gray-800">
+              <div className=" bg-gray-800  rounded-lg shadow-lg relative flex flex-col w-full ">
                 <div className="flex items-start justify-between p-5 border-b border-solid border-slate-200 rounded-t ">
                   <h3 className="text-3xl font-semibold">{cardTitle}</h3>
                 </div>
@@ -37,7 +37,7 @@ export default function Modal({
                   </p>
                   <h4>Key responsibilities</h4>
                   <p className="my-4 text-slate-500 text-lg leading-relaxed pl-6">
-                    <ul class="list-disc">
+                    <ul className="list-disc">
                       {responsibilities.map((item) => (
                         <li key={item}>{item}</li>
                       ))}
@@ -57,7 +57,6 @@ export default function Modal({
               </div>
             </div>
           </div>
-          <div className="opacity-25 fixed inset-0 z-40 bg-black"></div>
         </>
       ) : null}
     </>
