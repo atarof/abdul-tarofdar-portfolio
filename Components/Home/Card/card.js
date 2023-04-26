@@ -5,9 +5,9 @@ export default function Card({ cardTitle, date, summary, responsibilities, techn
 
   return (
     <div className="flex-1 h-full">
-      <div className="p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 ">
+      <div className="p-6 max-w-sm  rounded-lg  bg-gray-800 border-gray-200 shadow-md dark:border-gray-700 ">
         <a href="#">
-          <h5 className="mb-2 text-1xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-1xl font-semibold tracking-tight dark:text-white">
             {cardTitle}
           </h5>
         </a>
