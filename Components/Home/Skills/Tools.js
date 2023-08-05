@@ -23,35 +23,35 @@ export default function Tools() {
             <FontAwesomeIcon icon={faJs} size="2x" />
             <div>Javscript</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <FontAwesomeIcon icon={faReact} size="2x" />
             <div>React.js</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <FontAwesomeIcon icon={faAws} size="2x" />
             <div>Amazon web service</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <Testcafe className="mx-10" size={32} />
             <div>TestCafe</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <Cypress className="mx-10" size={32} />
             <div>Cypress</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <FontAwesomeIcon icon={faGithub} size="2x" />
             <div>GitHub</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <FontAwesomeIcon icon={faWordpress} size="2x" />
             <div>Wordpress</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <FontAwesomeIcon icon={faJira} size="2x" />
             <div>JIRA</div>
           </div>
-          <div className="text-center">
+          <div className="text-center ">
             <Nextdotjs className="mx-10" size={32} />
             <div>Next.js</div>
           </div>
