@@ -5,16 +5,16 @@ import Link from 'next/link'
 export default function Header() {
   return (
     <nav className="sticky top-0 flex items-center justify-center md:justify-between flex-wrap bg-gray-900 p-6 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-dark md:flex">
-      <ul className="navbar-nav flex space-x-8 list-style-none  text-1xl md:items-center ">
-        <li>
+      <ul className="navbar-nav flex space-x-8 list-style-none  text-1xl md:items-center text-white ">
+        <li className="border-b-2 border-transparent hover:border-[#E6CAB3]">
           <a href="#about">About me</a>
         </li>
 
-        <li>
+        <li className="border-b-2 border-transparent hover:border-[#E6CAB3]">
           <a href="#skills">Skills</a>
         </li>
         <Link href="#contact">
-          <li>
+          <li className="border-b-2 border-transparent hover:border-[#E6CAB3]">
             <a>Contact </a>
           </li>
         </Link>
