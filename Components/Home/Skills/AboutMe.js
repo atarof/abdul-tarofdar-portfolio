@@ -10,7 +10,7 @@ export default function AboutMe() {
         <h4 className="pt-3 font-header text-xl font-medium text-white sm:text-2xl lg:text-3xl">
           QA engineer | analyst | lead
         </h4>
-        <p className="pt-3 font-body leading-relaxed text-grey-20 max-w-lg">
+        <p className="pt-3 font-body leading-relaxed text-grey-20 max-w-xl">
           Hi and welcome! I have spent the last 10 years helping delivery teams
           build great digital products and services. I have worked in large
           digital transformation projects in the private and public sector

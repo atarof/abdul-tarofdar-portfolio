@@ -54,7 +54,7 @@ export default function Contact() {
   }, [formState, reset])
 
   return (
-    <div id="contact" className="mt-6 pt-[5rem]">
+    <div id="contact" className="">
       <section className="body-font relative">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
